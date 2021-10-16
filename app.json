@@ -1,6 +1,6 @@
 {
-  "name": "Group Music Bot",
-  "logo": "https://telegra.ph/file/e62e75453eeedad35a189.jpg",
+  "name": "Nawaj Music Bot",
+  "logo": "https://telegra.ph/file/f2e78b5ab556cebc08824.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/LushaiMusic/GroupMusicBot",
@@ -45,7 +45,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot @MT_Telegraph_BoT",
       "required": false,
-      "value": "https://telegra.ph/file/e62e75453eeedad35a189.jpg"
+      "value": "https://telegra.ph/file/f2e78b5ab556cebc08824.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one]{Mo_Tech_YT}",
